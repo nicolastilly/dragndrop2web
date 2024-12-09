@@ -28,7 +28,8 @@ Plan possible :
 
 ![maquette](images/maquette01.jpg)
 
-Lien vers la page : [exemple 01](exemple01.html) 
+Code source : [exemple 01](exemple01.html)
+Lien vers la page : [https://nicolastilly.github.io/dragndrop2web/exemple01.html](https://nicolastilly.github.io/dragndrop2web/exemple01.html)
 
 **Ressources :**
 
