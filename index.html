@@ -52,7 +52,7 @@
             for (var i = 0; i < draggableElems.length; i++) {
                 var draggableElem = draggableElems[i];
                 var draggie = new Draggabilly(draggableElem, {
-                    // options...
+                    containment: '#s1'
                 });
                 draggies.push(draggie);
             }
