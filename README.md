@@ -28,12 +28,14 @@ Plan possible :
 
 ![maquette](images/maquette01.jpg)
 
-Code source : [exemple 01](exemple01.html)
-Lien vers la page : [https://nicolastilly.github.io/dragndrop2web/exemple01.html](https://nicolastilly.github.io/dragndrop2web/exemple01.html)
+[Code source](exemple01.html)
+
+[Lien vers la page](https://nicolastilly.github.io/dragndrop2web/exemple01.html)
 
 **Ressources :**
 
 - [https://coolshap.es/](https://coolshap.es/)
+- [https://draggabilly.desandro.com/](https://draggabilly.desandro.com/)
 - [https://jacobpadilla.com/articles/responsive-font-sizing-in-css](https://jacobpadilla.com/articles/responsive-font-sizing-in-css)
 - [https://css-tricks.com/snippets/css/complete-guide-grid/](https://css-tricks.com/snippets/css/complete-guide-grid/)
 - [https://cssgrid-generator.netlify.app/](https://cssgrid-generator.netlify.app/)
