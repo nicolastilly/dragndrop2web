@@ -1,6 +1,6 @@
-# Projet Drag n drop 2 Web
+# Projet Drag and drop 2 Web
 
-## Journal de bord de mon projet.
+## Journal de bord de mon projet
 
 ### Exemples de markdown
 
