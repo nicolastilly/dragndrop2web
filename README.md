@@ -1,6 +1,12 @@
 # Projet Drag and drop 2 Web
 
-Le readme est le journal de bord du projet. Il présente les intentions et les évolutions de celui-ci.
+**Le readme est le journal de bord du projet. Il présente les intentions et les évolutions de celui-ci.**
+
+Plan possible pour votre Readme :
+1. Un court descriptif de votre idée
+2. Captures d'écran des étapes du projet (chronologie + dates)
+3. Focus (points de détails du projet : code, image...)
+4. La structure du projet (navigation, pages...)
 
 ### Exemples de styles avec markdown
 
@@ -21,15 +27,11 @@ Pour ajouter une image : `![icône](images/01.png)`
 ![icône](images/01.png)
 
 
-Plan possible pour votre Readme :
-1. Un court descriptif de votre idée
-2. Captures d'écran des étapes du projet (chronologie + dates)
-3. Focus (points de détails du projet : code, image...)
-4. La structure du projet (navigation, pages...)
-
 ---
 
 ## Exemple 01
+
+Utilisation du drag and drop avec des formes et du texte.
 
 ![maquette](images/maquette01.jpg)
 
