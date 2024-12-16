@@ -2,21 +2,26 @@
 
 ## Journal de bord de mon projet
 
-### Exemples de markdown
+### Exemples de styles avec markdown
 
-_italique_ s'affiche ainsi : italique
-**gras** s'affiche ainsi : gras
-**_gras-italique_** s'affiche ainsi : gras-italique
-~~barré~~ s'affiche ainsi : barré
+_italique_ s'affiche ainsi : `_italique`
+
+**gras** s'affiche ainsi : `**gras**`
+
+**_gras-italique_** s'affiche ainsi : `**_gras-italique_**`
+
+~~barré~~ s'affiche ainsi : `~~barré~~`
+
 exemple de texte
 
 
-Voici un exemple [de lien](https://docs.framasoft.org/fr/grav/markdown.html)
+Voici un exemple [de lien](https://docs.framasoft.org/fr/grav/markdown.html) : `[de lien](https://docs.framasoft.org/fr/grav/markdown.html)`
 
+Pour ajouter une image : `![icône](images/01.png)`
 ![icône](images/01.png)
 
 
-Plan possible :
+Plan possible pour votre Readme :
 1. Un court descriptif de votre idée
 2. Captures d'écran des étapes du projet (chronologie + dates)
 3. Focus (points de détails du projet : code, image...)
