@@ -1,6 +1,6 @@
 # Projet Drag and drop 2 Web
 
-## Journal de bord de mon projet
+Le readme est le journal de bord du projet. Il présente les intentions et les évolutions de celui-ci.
 
 ### Exemples de styles avec markdown
 
